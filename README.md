@@ -1,2 +1,4 @@
 # EnglishToNepali-Date-Conversion
-contains java codes
+Contains java codes
+This will convert english date to nepali date.
+Valid upto nepali date:2090 BS
