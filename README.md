@@ -5,3 +5,4 @@ Valid upto nepali date:2090 BS
 
 
 You have to call getYear(), getMonth(), and getDay() to get nepali year,month and day.
+Here i find today's nepali date.
